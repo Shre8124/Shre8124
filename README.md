@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shre8124
 - 🎓 About Me:
-- 🌱 I’m currently a student learning physics
+- 🌱 I’m currently a student learning Python
 - 🧠 Building my skills in physics, computer science
 - 💡 Enthusiastic about hands-on projects, science exhibitions, and exploring tech for everyday use.
 <!---
